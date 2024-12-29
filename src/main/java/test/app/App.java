@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         public class ReportGenerator {
+            System.out.println( "Hello  World" );
 
     }
 }
